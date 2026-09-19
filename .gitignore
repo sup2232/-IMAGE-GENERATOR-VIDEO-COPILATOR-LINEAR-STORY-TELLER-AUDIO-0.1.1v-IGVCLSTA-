@@ -1,0 +1,8 @@
+
+granspech.zip
+pkg/
+/tmp/
+
+*.pyc
+__pycache__/
+server.log
